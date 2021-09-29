@@ -1,7 +1,6 @@
 /**
-* Template Name: NewBiz - v4.5.0
-* Template URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-* Author: BootstrapMade.com
+* Template Name: elasticpath - v4.5.0
+* Author: RAAGAMAALIKA
 * License: https://bootstrapmade.com/license/
 */
 (function() {
